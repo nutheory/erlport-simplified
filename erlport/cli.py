@@ -30,7 +30,6 @@ from optparse import OptionParser, OptionValueError
 from erlport import erlang
 from erlport.erlproto import Port
 
-
 def get_option_parser():
     def packet_option_handler(option, opt_str, value, parser):
         if value not in (1, 2, 4):
