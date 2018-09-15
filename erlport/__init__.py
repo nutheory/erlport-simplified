@@ -25,8 +25,7 @@
 # ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
 
-
-"""Erlang port protocol."""
++"""Erlang port protocol."""
 
 __author__ = "Dmitry Vasiliev <dima@hlabs.org>"
 __version__ = "1.0"
